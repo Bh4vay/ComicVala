@@ -17,7 +17,8 @@ Additionally, ComicWala uses LocomotiveJS, GSAP for animations across the websit
 - **HTML5**
 - **CSS3**
 - **JavaScript (GSAP + Locomotive Scroll)**
-- **Gradio** (for LLM-based comic generation)
+- **Gradio** (UI for using LLM models)
+- Tinyllama and Phi2 (LLM models)
 - **Stable Diffusion** (for AI-generated comic images)
 
 ## Dependencies
@@ -33,9 +34,9 @@ Make sure to include the following in your HTML file:
 
 ## Usage
 1. Open the website and scroll to experience smooth animations.
-2. lick on **Try Now** and hence enter a prompt to generate an AI-powered comic.
-3. The **LLM** will generate a comic script, and **Stable Diffusion** will create corresponding images.
-4. Click on buttons to explore interactive elements.
+2. Click on **Phi2** or **Tinyllama** and hence enter a prompt to generate an AI-powered comic.
+3. Choose the number of panels to be generated as well as the type of images you want. Eg.: Anime, Classic, Noir etc.
+4. The **LLM** will generate a comic script, and **Stable Diffusion** will create corresponding images.
 5. Enjoy the AI-powered comic generation feature!
 
 ## License
