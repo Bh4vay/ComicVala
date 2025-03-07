@@ -135,8 +135,8 @@ document.querySelectorAll("button").forEach((btn) => {
 });
 
 function redirectToStreamlit2() {
-  window.open("https://6d654455cbcc20bcf2.gradio.live", "_blank"); // Replace with your actual Streamlit ngrok URL
+  window.open("https://d93d0ba620bb6ffee1.gradio.live", "_blank"); // Replace with your actual Streamlit ngrok URL
 }
 function redirectToStreamlit1() {
-  window.open("https://3ea275a255ee452a12.gradio.live", "_blank"); // Replace with your actual Streamlit ngrok URL
+  window.open("https://92f7312478eb9714a7.gradio.live", "_blank"); // Replace with your actual Streamlit ngrok URL
 }
